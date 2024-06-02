@@ -34,3 +34,8 @@ window.addEventListener('scroll', handeScroll);
 window.addEventListener('resize', handleResize);
 
 handleResize()
+
+
+function goto_certifications() {
+    window.location = '/certifications';
+}
